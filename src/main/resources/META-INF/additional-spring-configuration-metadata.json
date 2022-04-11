@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "jpa.properties.hibernate.show_sql",
+      "type": "java.lang.String",
+      "description": "Description for jpa.properties.hibernate.show_sql."
+    },
+    {
+      "name": "jpa.hibernate.ddl-auto",
+      "type": "java.lang.String",
+      "description": "Description for jpa.hibernate.ddl-auto."
+    },
+    {
+      "name": "format_sql.h2.console.enabled",
+      "type": "java.lang.String",
+      "description": "Description for format_sql.h2.console.enabled."
+    }
+  ] }
